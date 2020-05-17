@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8169641d.chunk.css",
+    "main.js": "/static/js/main.e6d08b44.chunk.js",
+    "main.js.map": "/static/js/main.e6d08b44.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6258ac7a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6258ac7a.js.map",
+    "static/css/2.115a803b.chunk.css": "/static/css/2.115a803b.chunk.css",
+    "static/js/2.c435d4fa.chunk.js": "/static/js/2.c435d4fa.chunk.js",
+    "static/js/2.c435d4fa.chunk.js.map": "/static/js/2.c435d4fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e9ec554525804eeabdfc6684f62224f5.js": "/precache-manifest.e9ec554525804eeabdfc6684f62224f5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.115a803b.chunk.css.map": "/static/css/2.115a803b.chunk.css.map",
+    "static/css/main.8169641d.chunk.css.map": "/static/css/main.8169641d.chunk.css.map",
+    "static/js/2.c435d4fa.chunk.js.LICENSE.txt": "/static/js/2.c435d4fa.chunk.js.LICENSE.txt",
+    "static/media/EURCAD.svg": "/static/media/EURCAD.829782de.svg",
+    "static/media/FlyingDollars.mp4": "/static/media/FlyingDollars.ccc7787d.mp4",
+    "static/media/imageLoadingSpinner.gif": "/static/media/imageLoadingSpinner.8dcf0fa9.gif",
+    "static/media/loading.mp4": "/static/media/loading.10775f2a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6258ac7a.js",
+    "static/css/2.115a803b.chunk.css",
+    "static/js/2.c435d4fa.chunk.js",
+    "static/css/main.8169641d.chunk.css",
+    "static/js/main.e6d08b44.chunk.js"
+  ]
+}

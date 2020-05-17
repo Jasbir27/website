@@ -1,0 +1,39 @@
+ 
+ npx react-native init AwesomeProject
+ npx react-native start
+ npx react-native run-android --no-jetifie
+ 
+ 
+ npx create-react-app
+ 
+ -------------
+ 
+ npm install -g heroku
+ 
+ heroku login (Enter your Heroku credentials)
+git init
+git add .
+git commit -m “initial commit”
+heroku create (You should see two links after running this command. Copy the second one)
+git remote add heroku PASTE THE LINK YOU JUST COPIED
+git push heroku master
+
+ ------------------
+ Replace $APP_NAME with the name for your unique app.
+ 
+ npx create-react-app@3.x $APP_NAME
+cd $	
+heroku create $APP_NAME --buildpack mars/create-react-app
+heroku create indtrader --buildpack mars/create-react-app
+git remote add heroku https://git.heroku.com/indtrader.git
+git push heroku master
+heroku open
+
+
+-------------
+npm install --save redux react-redux redux-thunk
+npm install --save firebase
+
+
+npm i --save bootstrap jquery popper.js
+
